@@ -25,3 +25,8 @@ Sensors:   None detected - is lm-sensors installed and configured?
 Info:      Processes: 188 Uptime: 28 min Memory: 831.3/3944.5MB
            Client: Shell (bash) inxi: 2.2.35 
 
+
+openjdk version "1.8.0_252"
+OpenJDK Runtime Environment (build 1.8.0_252-8u252-b09-1~16.04-b09)
+OpenJDK 64-Bit Server VM (build 25.252-b09, mixed mode)
+
