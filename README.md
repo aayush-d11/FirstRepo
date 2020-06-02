@@ -30,3 +30,16 @@ openjdk version "1.8.0_252"
 OpenJDK Runtime Environment (build 1.8.0_252-8u252-b09-1~16.04-b09)
 OpenJDK 64-Bit Server VM (build 25.252-b09, mixed mode)
 
+● mysql.service - MySQL Community Server
+   Loaded: loaded (/lib/systemd/system/mysql.service; enabled; vendor preset: en
+   Active: active (running) since Tue 2020-06-02 21:25:31 IST; 34min ago
+ Main PID: 862 (mysqld)
+   CGroup: /system.slice/mysql.service
+           └─862 /usr/sbin/mysqld
+
+Jun 02 21:25:25 aayush-VirtualBox systemd[1]: Starting MySQL Community Server...
+Jun 02 21:25:31 aayush-VirtualBox systemd[1]: Started MySQL Community Server.
+Jun 02 21:58:23 aayush-VirtualBox systemd[1]: Started MySQL Community Server.
+Jun 02 21:59:32 aayush-VirtualBox systemd[1]: Started MySQL Community Server.
+
+
